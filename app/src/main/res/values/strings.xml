@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intro of jetpack compose</string>
+    <string name="title_activity_pic_from_gallery">PicFromGallery</string>
+</resources>
